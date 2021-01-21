@@ -1,8 +1,7 @@
 ### Hi there this is Galanteria 
-[![Galanteria's github stats](https://github-readme-stats.vercel.app/api?username=galanteria01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galanteria01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Shoury's github stats](https://github-readme-stats.vercel.app/api?username=galanteria01&count_private=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galanteria01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I'm currently undergraduate in engineering from NIT-Bhopal
