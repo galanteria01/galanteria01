@@ -3,6 +3,6 @@
 
 
 - 🔭 I'm currently undergraduate from NIT-Bhopal.
-- 🌱 I’m currently learning Node.js and REACT.
+- 🌱 I’m currently learning Microservices in golang.
 - 💬 Ask me about Android device bringup.
 - 📫 How to reach me: shanuu12e@gmail.com.
