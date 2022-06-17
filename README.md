@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoury Sharm</h1>
+<h1 align="center">Hi 👋, I'm Shoury Sharma</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 - 🔭 I’m currently working on [Github-Client](https://github.com/galanteria01/github-client)
