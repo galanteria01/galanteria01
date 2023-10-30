@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://shoury.live](https://shoury.live)
+- 👨‍💻 All of my projects are available at [https://shoury.tech](https://shoury.tech)
 
 - 📝 I regularly write articles on [https://shanuu12e.medium.com](https://shanuu12e.medium.com)
 
